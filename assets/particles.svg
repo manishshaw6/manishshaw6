@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" role="img" aria-label="Floating particles">
+  <defs><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.p{fill:#7df9ff;filter:url(#glow);animation:f 5s ease-in-out infinite}@keyframes f{50%{transform:translateY(-24px);opacity:.3}}</style></defs>
+  <rect width="1200" height="180" fill="#020617"/>
+  <g class="p"><circle cx="70" cy="110" r="3"/><circle cx="210" cy="60" r="2"/><circle cx="390" cy="125" r="4"/><circle cx="545" cy="72" r="2"/><circle cx="720" cy="116" r="3"/><circle cx="890" cy="54" r="2"/><circle cx="1080" cy="122" r="4"/></g>
+  <path d="M60 150C280 40 410 210 630 80S960 30 1140 142" fill="none" stroke="#00e5ff" stroke-opacity=".26" stroke-dasharray="5 16">
+    <animate attributeName="stroke-dashoffset" from="0" to="-120" dur="5s" repeatCount="indefinite"/>
+  </path>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" role="img" aria-labelledby="title desc">
+  <title id="title">Glass mission panels</title>
+  <desc id="desc">Reusable glassmorphism panels with neon borders and soft glow.</desc>
+  <defs><filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.p{fill:#061225;stroke:#00e5ff;stroke-opacity:.58}.t{font-family:JetBrains Mono, Consolas, monospace}.dash{stroke-dasharray:10 10;animation:d 4s linear infinite}@keyframes d{to{stroke-dashoffset:-100}}</style></defs>
+  <rect width="560" height="300" fill="#020617"/>
+  <g filter="url(#glow)">
+    <rect class="p" x="22" y="24" width="240" height="108" rx="12"/><rect class="p" x="298" y="24" width="240" height="108" rx="12"/>
+    <rect class="p" x="22" y="168" width="240" height="108" rx="12"/><rect class="p" x="298" y="168" width="240" height="108" rx="12"/>
+  </g>
+  <g class="t" font-size="14" fill="#fff">
+    <text x="44" y="58" fill="#00e5ff">MISSION</text><text x="44" y="88">DESIGN FUTURE-FACING</text><text x="44" y="112">SOFTWARE INTERFACES</text>
+    <text x="320" y="58" fill="#00e5ff">PROFILE</text><text x="320" y="88">BUILDER // ENGINEER</text><text x="320" y="112">AI-AUGMENTED WORKFLOWS</text>
+    <text x="44" y="202" fill="#00e5ff">SIGNAL</text><text x="44" y="232">OPEN SOURCE TELEMETRY</text><text x="44" y="256">RESPONSIVE README HUD</text>
+    <text x="320" y="202" fill="#00e5ff">STACK</text><text x="320" y="232">WEB // API // DATA // AI</text><text x="320" y="256">SECURE BY DEFAULT</text>
+  </g>
+  <path class="dash" d="M262 78H298M262 222H298" stroke="#7df9ff" stroke-width="2"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Animated arc reactor</title>
+  <desc id="desc">Three rotating rings, center pulse, glow, and energy lines.</desc>
+  <defs>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <radialGradient id="core"><stop offset="0" stop-color="#ffffff"/><stop offset=".28" stop-color="#7df9ff"/><stop offset=".75" stop-color="#00e5ff" stop-opacity=".35"/><stop offset="1" stop-color="#020617" stop-opacity="0"/></radialGradient>
+    <style>
+      .ring{fill:none;stroke:#00e5ff;stroke-width:3;filter:url(#glow);transform-origin:160px 160px}
+      .r1{stroke-dasharray:32 18;animation:rot 10s linear infinite}
+      .r2{stroke-dasharray:12 22;animation:rot 7s linear infinite reverse}
+      .r3{stroke-dasharray:4 12;animation:rot 4s linear infinite}
+      .pulse{animation:pulse 2.2s ease-in-out infinite}
+      @keyframes rot{to{transform:rotate(360deg)}}
+      @keyframes pulse{50%{opacity:.45;transform:scale(.92)}}
+    </style>
+  </defs>
+  <rect width="320" height="320" fill="#020617" rx="28"/>
+  <circle cx="160" cy="160" r="118" fill="none" stroke="#00bcd4" stroke-opacity=".22"/>
+  <circle class="ring r1" cx="160" cy="160" r="104"/>
+  <circle class="ring r2" cx="160" cy="160" r="80"/>
+  <circle class="ring r3" cx="160" cy="160" r="56"/>
+  <g stroke="#80d8ff" stroke-width="2" stroke-opacity=".72" filter="url(#glow)">
+    <path d="M160 37V78"/><path d="M160 242V283"/><path d="M37 160H78"/><path d="M242 160H283"/>
+    <path d="M73 73L103 103"/><path d="M217 217L247 247"/><path d="M247 73L217 103"/><path d="M103 217L73 247"/>
+  </g>
+  <circle class="pulse" cx="160" cy="160" r="46" fill="url(#core)" filter="url(#glow)"/>
+  <circle cx="160" cy="160" r="18" fill="#ffffff" filter="url(#glow)">
+    <animate attributeName="r" values="16;22;16" dur="1.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".65;1;.65" dur="1.7s" repeatCount="indefinite"/>
+  </circle>
+</svg>

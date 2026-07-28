@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 90" role="img" aria-label="Futuristic divider">
+  <defs><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="1000" height="90" fill="#020617"/>
+  <path d="M40 45H330l36-30h268l36 30h290" fill="none" stroke="#00e5ff" stroke-width="3" filter="url(#glow)" stroke-linecap="round"/>
+  <path d="M390 45h220" stroke="#ffffff" stroke-opacity=".8" stroke-width="1" stroke-dasharray="8 12">
+    <animate attributeName="stroke-dashoffset" from="0" to="-120" dur="3s" repeatCount="indefinite"/>
+  </path>
+</svg>

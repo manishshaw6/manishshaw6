@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" role="img" aria-labelledby="title desc">
+  <title id="title">Animated wireframe globe</title>
+  <desc id="desc">Glowing latitude and longitude lines rotate like a holographic Earth.</desc>
+  <defs>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.spin{transform-origin:180px 132px;animation:spin 9s linear infinite}.pulse{animation:pulse 3s ease-in-out infinite}@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.35}}</style>
+  </defs>
+  <rect width="360" height="260" rx="18" fill="#020617" stroke="#00e5ff" stroke-opacity=".5"/>
+  <g class="spin" fill="none" stroke="#00e5ff" stroke-width="2" stroke-opacity=".7" filter="url(#glow)">
+    <circle cx="180" cy="132" r="78"/>
+    <ellipse cx="180" cy="132" rx="78" ry="28"/><ellipse cx="180" cy="132" rx="78" ry="52"/>
+    <ellipse cx="180" cy="132" rx="28" ry="78"/><ellipse cx="180" cy="132" rx="52" ry="78"/>
+    <path d="M102 132H258M180 54V210"/>
+  </g>
+  <circle class="pulse" cx="180" cy="132" r="102" fill="none" stroke="#7df9ff" stroke-opacity=".28"/>
+  <text x="22" y="36" fill="#80d8ff" font-family="JetBrains Mono, Consolas, monospace" font-size="13">GLOBAL UPLINK // LOCKED</text>
+</svg>

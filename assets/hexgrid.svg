@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" role="img" aria-labelledby="title desc">
+  <title id="title">Animated hex grid</title>
+  <desc id="desc">Moving neon hexagonal pattern.</desc>
+  <defs>
+    <pattern id="hex" width="70" height="60" patternUnits="userSpaceOnUse">
+      <path d="M17 1h36l17 29-17 29H17L0 30Z" fill="none" stroke="#00e5ff" stroke-opacity=".28"/>
+    </pattern>
+    <style>.move{animation:move 8s linear infinite}@keyframes move{to{transform:translateX(70px)}}</style>
+  </defs>
+  <rect width="1200" height="160" fill="#020617"/>
+  <rect class="move" x="-70" width="1340" height="160" fill="url(#hex)"/>
+  <path d="M0 80H1200" stroke="#7df9ff" stroke-opacity=".65" stroke-dasharray="12 18">
+    <animate attributeName="stroke-dashoffset" from="0" to="-240" dur="6s" repeatCount="indefinite"/>
+  </path>
+</svg>
