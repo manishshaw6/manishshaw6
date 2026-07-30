@@ -1,165 +1,195 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A0F,50:FF2079,100:00FFF9&height=250&section=header&text=MANISH_SHAW.exe&fontSize=60&fontColor=00FFF9&animation=twinkling&fontAlignY=45&desc=%3E%20FULL%20STACK%20SOFTWARE%20ENGINEER%20_%20SYSTEM%20ONLINE&descAlignY=68&descSize=17&descColor=FF2079" width="100%"/>
+<!-- GLITCH BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:ff00ff,100:00fff9&height=220&section=header&text=MANISH%20SHAW&fontSize=60&fontColor=00fff9&animation=twinkling&fontAlignY=35&desc=%3C%20FULL-STACK%20NETRUNNER%20%2F%2F%20SYSTEM%20ONLINE%20%3E&descAlignY=58&descSize=20" width="100%"/>
 
-<br/>
+<!-- TYPING TERMINAL HEADER -->
+<a href="https://github.com/manishshaw6">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%3E+BOOTING+MANISH_OS+v6.6.6...;%3E+ACCESSING+FULL-STACK+ARCHIVES...;%3E+WELCOME+TO+THE+GRID%2C+RUNNER.;%3E+STATUS%3A+ONLINE+%7C+THREAT+LEVEL%3A+CREATIVE" alt="Typing SVG" />
+</a>
 
-```ansi
-[BOOT SEQUENCE INITIATED]
-> loading kernel............ [OK]
-> mounting /dev/manish....... [OK]
-> identity confirmed......... MANISH SHAW
-> role........................ FULL STACK SOFTWARE ENGINEER
-> status...................... ONLINE // BUILDING
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00FFF9&center=true&vCenter=true&width=850&height=100&lines=root%40manishshaw6%3A~%24+whoami;%3E+full-stack+developer+%7C+open-source+builder;%3E+shipping+scalable+web+apps+since+day+one;%3E+currently+compiling%3A+system_design.exe" alt="terminal typing" />
-
-<br/><br/>
-
-![views](https://komarev.com/ghpvc/?username=manishshaw6&label=SCANS::PROFILE&color=FF2079&style=flat-square&labelColor=0A0A0F)
-[![followers](https://img.shields.io/github/followers/manishshaw6?label=UPLINK::FOLLOW&style=flat-square&color=00FFF9&labelColor=0A0A0F)](https://github.com/manishshaw6)
-[![portfolio](https://img.shields.io/badge/PORTAL::LIVE-B026FF?style=flat-square&labelColor=0A0A0F)](https://manishportfolio-5hte.onrender.com/)
+![Profile Views](https://komarev.com/ghpvc/?username=manishshaw6&label=GRID+INTRUSIONS&color=ff00ff&style=for-the-badge)
+![Status](https://img.shields.io/badge/UPLINK-ACTIVE-00fff9?style=for-the-badge&labelColor=0d0221)
+![Encryption](https://img.shields.io/badge/ENCRYPTION-AES--256-39FF14?style=for-the-badge&labelColor=0d0221)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF9,50:FF2079,100:B026FF&height=3&width=100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## ⟨ 01 ⟩ ABOUT_ME.sh
-
-<img align="right" width="340" src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/code.gif">
+## 🖥️ `/// SYSTEM_DIAGNOSTIC.log`
 
 ```yaml
-> cat about_me.yaml
-identity:
-  name: "Manish Shaw"
-  location: "🌍 India"
-  role: "Full Stack Software Engineer"
-  mission: "Turning complex problems into scalable, elegant code"
+> RUNNING boot_sequence.sh ...
 
-directives:
-  - "🔭 building full-stack products with modern JS + cloud-native tooling"
-  - "🌱 compiling knowledge on System Design, DevOps, and AI-integrated apps"
-  - "⚡ fluent in React, Node.js, MongoDB, and distributed architecture"
-  - "🎯 2026 objective: ship open-source tools with real-world impact"
+USER_ID:        manishshaw6
+CLASS:          Full-Stack Engineer // Digital Architect
+STATUS:         🟢 ONLINE
+NODE_LOCATION:  [ REDACTED :: EARTH-GRID ]
+CORE_FOCUS:     >> Modern Web Applications
+                >> Scalable System Architectures
+                >> Interactive UI/UX Engineering
+DEPLOYMENT:     https://manishportfolio-5hte.onrender.com/
+MISSION:        Building high-performance, immersive
+                digital experiences across the stack.
 
-status: "AVAILABLE // OPEN TO COLLAB"
+> DIAGNOSTIC COMPLETE. ALL SYSTEMS NOMINAL.
 ```
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-![](https://img.shields.io/badge/BUILDING-FULL_STACK_APPS-00FFF9?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/LEARNING-SYSTEM_DESIGN_%7C_CLOUD-FF2079?style=flat-square&labelColor=0A0A0F)
-![](https://img.shields.io/badge/ASK_ME-JS_%7C_REACT_%7C_NODE-B026FF?style=flat-square&labelColor=0A0A0F)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF9,50:FF2079,100:B026FF&height=3&width=100%"/>
-
-## ⟨ 02 ⟩ CONTRIBUTION_GRID // SNAKE_PROTOCOL
+## 🐍 `/// CONTRIBUTION_MATRIX.exe`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishshaw6/manishshaw6/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishshaw6/manishshaw6/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/manishshaw6/manishshaw6/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishshaw6/manishshaw6/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishshaw6/manishshaw6/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/manishshaw6/manishshaw6/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-`[ AUTO-REGENERATED DAILY VIA GITHUB ACTIONS ]`
+*Live data-stream devouring commit nodes across the temporal grid.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF9,50:FF2079,100:B026FF&height=3&width=100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## ⟨ 03 ⟩ TECH_STACK.config
+## 🦾 `/// CYBERNETIC_ARSENAL.dll`
+
+<details open>
+<summary><b>⚡ FRONTEND // NEURAL INTERFACE LAYER</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/REACT-0d0221?style=for-the-badge&logo=react&logoColor=00fff9&labelColor=0d0221)
+![Next.js](https://img.shields.io/badge/NEXT.JS-0d0221?style=for-the-badge&logo=nextdotjs&logoColor=ff00ff&labelColor=0d0221)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0d0221?style=for-the-badge&logo=typescript&logoColor=39FF14&labelColor=0d0221)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d0221?style=for-the-badge&logo=javascript&logoColor=ff00ff&labelColor=0d0221)
+![Tailwind](https://img.shields.io/badge/TAILWINDCSS-0d0221?style=for-the-badge&logo=tailwindcss&logoColor=00fff9&labelColor=0d0221)
+![HTML5](https://img.shields.io/badge/HTML5-0d0221?style=for-the-badge&logo=html5&logoColor=39FF14&labelColor=0d0221)
+
+</details>
+
+<details open>
+<summary><b>🧠 BACKEND // CORE PROCESSING UNITS</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/NODE.JS-0d0221?style=for-the-badge&logo=nodedotjs&logoColor=39FF14&labelColor=0d0221)
+![Express](https://img.shields.io/badge/EXPRESS-0d0221?style=for-the-badge&logo=express&logoColor=00fff9&labelColor=0d0221)
+![Python](https://img.shields.io/badge/PYTHON-0d0221?style=for-the-badge&logo=python&logoColor=ff00ff&labelColor=0d0221)
+![REST API](https://img.shields.io/badge/REST_API-0d0221?style=for-the-badge&logo=fastapi&logoColor=39FF14&labelColor=0d0221)
+
+</details>
+
+<details open>
+<summary><b>🗄️ DATABASE // DATA VAULT NODES</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MONGODB-0d0221?style=for-the-badge&logo=mongodb&logoColor=39FF14&labelColor=0d0221)
+![MySQL](https://img.shields.io/badge/MYSQL-0d0221?style=for-the-badge&logo=mysql&logoColor=00fff9&labelColor=0d0221)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=ff00ff&labelColor=0d0221)
+![Redis](https://img.shields.io/badge/REDIS-0d0221?style=for-the-badge&logo=redis&logoColor=ff0000&labelColor=0d0221)
+
+</details>
+
+<details open>
+<summary><b>☁️ CLOUD / DEVOPS // DEPLOYMENT GRID</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/DOCKER-0d0221?style=for-the-badge&logo=docker&logoColor=00fff9&labelColor=0d0221)
+![AWS](https://img.shields.io/badge/AWS-0d0221?style=for-the-badge&logo=amazonaws&logoColor=ff9900&labelColor=0d0221)
+![Vercel](https://img.shields.io/badge/VERCEL-0d0221?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d0221)
+![Render](https://img.shields.io/badge/RENDER-0d0221?style=for-the-badge&logo=render&logoColor=39FF14&labelColor=0d0221)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-0d0221?style=for-the-badge&logo=githubactions&logoColor=ff00ff&labelColor=0d0221)
+
+</details>
+
+<details open>
+<summary><b>🛠️ TOOLS // NETRUNNER TOOLKIT</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/GIT-0d0221?style=for-the-badge&logo=git&logoColor=ff00ff&labelColor=0d0221)
+![GitHub](https://img.shields.io/badge/GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d0221)
+![VS Code](https://img.shields.io/badge/VS_CODE-0d0221?style=for-the-badge&logo=visualstudiocode&logoColor=00fff9&labelColor=0d0221)
+![Postman](https://img.shields.io/badge/POSTMAN-0d0221?style=for-the-badge&logo=postman&logoColor=ff6c37&labelColor=0d0221)
+![Figma](https://img.shields.io/badge/FIGMA-0d0221?style=for-the-badge&logo=figma&logoColor=39FF14&labelColor=0d0221)
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📡 `/// SYSTEM_TELEMETRY.stream`
 
 <div align="center">
 
-**`> FRONTEND_MODULES`**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,redux,sass&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=manishshaw6&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=ff00ff&icon_color=00fff9&text_color=39FF14&ring_color=ff00ff" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishshaw6&theme=synthwave&hide_border=true&background=0d0221&ring=ff00ff&fire=00fff9&currStreakLabel=39FF14" width="49%"/>
 
-**`> BACKEND_MODULES`**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,django,fastapi,graphql&theme=dark" />
-
-**`> DATABASE_LAYER`**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase&theme=dark" />
-
-**`> TOOLING_AND_DEVOPS`**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,vscode,postman,linux,nginx&theme=dark" />
-
-**`> CLOUD_INFRA`**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,heroku&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishshaw6&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=ff00ff&text_color=00fff9" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manishshaw6&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8&title=Deploys,Commits,Stars,Repositories" width="49%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF9,50:FF2079,100:B026FF&height=3&width=100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## ⟨ 04 ⟩ SYSTEM_ANALYTICS.log
+## 🗂️ `/// PROJECT_MATRIX.db`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌆 PORTFOLIO_DECK.exe
+> 🟢 **STATUS: LIVE / DEPLOYED**
+
+Immersive full-stack showcase deck. Central node for all deployed builds and interactive experiments.
+
+`#React` `#Node.js` `#FullStack` `#UI/UX`
+
+<a href="https://manishportfolio-5hte.onrender.com/">
+<img src="https://img.shields.io/badge/ACCESS_DECK-00fff9?style=for-the-badge&logo=render&logoColor=0d0221&labelColor=0d0221"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 [PROJECT_NODE_02]
+> 🟡 **STATUS: CLASSIFIED / IN DEVELOPMENT**
+
+Slot reserved for next scalable architecture deployment. Awaiting data upload.
+
+`#TBD` `#Architecture` `#Scaling`
+
+<img src="https://img.shields.io/badge/AWAITING_UPLINK-ff00ff?style=for-the-badge&labelColor=0d0221"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🔗 `/// ENCRYPTED_COMMS.channel`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manishshaw6&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=00FFF9&icon_color=FF2079&text_color=e0e0e0&ring_color=B026FF&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=manishshaw6&theme=dark&hide_border=true&background=0A0A0F&stroke=00FFF9&ring=FF2079&fire=B026FF&currStreakLabel=00FFF9&sideLabels=e0e0e0&dates=6c6c6c" />
+<a href="https://www.linkedin.com/in/manishshaw6" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff9&labelColor=0d0221"/>
+</a>
+<a href="https://manishportfolio-5hte.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/PORTFOLIO-0d0221?style=for-the-badge&logo=vercel&logoColor=ff00ff&labelColor=0d0221"/>
+</a>
+<a href="mailto:manishshaw6@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/EMAIL-0d0221?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0d0221"/>
+</a>
+<a href="https://github.com/manishshaw6" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d0221"/>
+</a>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishshaw6&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=00FFF9&text_color=e0e0e0&langs_count=10" />
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=manishshaw6&theme=react-dark&hide_border=true&bg_color=0A0A0F&color=00FFF9&line=FF2079&point=B026FF" />
+<br><br>
 
-**`> TROPHY_CACHE`**
-
-<img src="https://github-profile-trophy.vercel.app/?username=manishshaw6&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+![Visitor Count](https://profile-counter.glitch.me/manishshaw6/count.svg)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF9,50:FF2079,100:B026FF&height=3&width=100%"/>
-
-## ⟨ 05 ⟩ DEPLOYED_PROJECTS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff9,50:ff00ff,100:0f0c29&height=120&section=footer"/>
 
 <div align="center">
-
-| ⟢ PROJECT | ⟢ STACK | ⟢ ACCESS |
-|:--|:--|:--|
-| **PORTFOLIO.exe**<br/>Dynamic showcase of my work, skills, and dev journey | `React` `Node.js` `CSS3` `Render` | [`> LAUNCH`](https://manishportfolio-5hte.onrender.com/) |
-| **PROJECT_02**<br/>_replace with your project description_ | `Tech` `Stack` `Tags` | [`> LAUNCH`](#) · [`> SOURCE`](#) |
-| **PROJECT_03**<br/>_replace with your project description_ | `Tech` `Stack` `Tags` | [`> LAUNCH`](#) · [`> SOURCE`](#) |
-
-</div>
-
-> `[ NOTE ]` swap the placeholder rows with your real repos and live links.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF9,50:FF2079,100:B026FF&height=3&width=100%"/>
-
-## ⟨ 06 ⟩ ESTABLISH_CONNECTION
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FFF9?style=for-the-badge&logo=vercel&logoColor=0A0A0F&labelColor=0A0A0F)](https://manishportfolio-5hte.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF2079?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0F)](https://linkedin.com/in/YOUR-LINKEDIN-ID)
-[![X](https://img.shields.io/badge/X_%2F_TWITTER-B026FF?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0F)](https://twitter.com/YOUR-TWITTER-ID)
-[![Email](https://img.shields.io/badge/EMAIL-00FFF9?style=for-the-badge&logo=gmail&logoColor=0A0A0F&labelColor=0A0A0F)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-FF2079?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0F)](https://github.com/manishshaw6)
-
-`[ WARNING ]` replace YOUR-LINKEDIN-ID, YOUR-TWITTER-ID, and the email above with your real handles.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF9,50:FF2079,100:B026FF&height=3&width=100%"/>
-
-<div align="center">
-
-**`> FETCHING RANDOM QUOTE...`**
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-![views](https://komarev.com/ghpvc/?username=manishshaw6&label=SESSION::CLOSED&color=B026FF&style=flat-square&labelColor=0A0A0F)
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFF9,50:FF2079,100:0A0A0F&height=150&section=footer"/>
-
-**`[ CONNECTION TERMINATED ]`** — ⭐ star my repos if this profile resonated with you.
-
+<i>"In the grid, code is the only truth." — end_transmission();</i>
 </div>
