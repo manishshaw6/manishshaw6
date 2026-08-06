@@ -1,5 +1,42 @@
 <div align="center">
 
+<h3><code>manishshaw6@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td width="42%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=manishshaw6&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=manishshaw6&theme=aurora&style=terminal&mode=dark" width="100%" alt="manishshaw6 portrait" />
+</picture></td>
+<td width="58%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=manishshaw6&theme=aurora&style=terminal&label=Manish+Shaw&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=manishshaw6&theme=aurora&style=terminal&label=Manish+Shaw&mode=dark" width="100%" alt="manishshaw6 wordmark" />
+</picture></td>
+</tr>
+</table>
+
+<p><b>Computer Science Student | BE IT @ CBIT
+Interested in Full-Stack Development &amp; Machine Learning
+Open to internships and collaboration 🤝</b></p>
+
+<p><a href="https://github.com/manishshaw6">GitHub</a></p>
+
+</div>
+
+<div align="center">
+
+<h3><code>manishshaw6@github ~ $ ./contributions.sh</code></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=manishshaw6&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=manishshaw6&theme=aurora&style=terminal&mode=dark" width="100%" alt="manishshaw6 heatmap" />
+</picture>
+
+</div>
+
+<p align="center"><sub>Manish Shaw · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:6DA55F&height=220&section=header&text=Hi%20There,%20I'm%20Manish%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20|%20Full-Stack%20Developer%20|%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://instagram.com/man_iish__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
